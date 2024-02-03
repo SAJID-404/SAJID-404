@@ -7,7 +7,7 @@
 </h3>
 
 <center>
-<img src="(https://i.postimg.cc/yx8GLLf3/Picsart-24-01-28-20-04-15-425-01.jpg)" width="100" height="180" align="right">
+<img src="[(https://i.postimg.cc/yx8GLLf3/Picsart-24-01-28-20-04-15-425-01.jpg)]" width="100" height="180" align="right">
 <center>
  
 <a href="https://Instagram.com/your_sajid_22" target="_blank"><img src="https://github.com/MAHADI-143/MAHADI-143/blob/main/Image/instagram.png" alt="alt text" width="81" height="81"></a> 
