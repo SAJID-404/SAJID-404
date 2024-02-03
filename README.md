@@ -16,9 +16,9 @@
  
 __𝗣𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗶𝗻𝗴__🩵🩷💖💙💜🖤🩶
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&random=false&width=435&lines=SAJID+KHAB;IT'S+NOT+A+NAME;IT'S+BRAND+BROTHER)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&random=false&width=435&lines=SAJID+KHAN;IT'S+NOT+A+NAME;IT'S+BRAND+BROTHER)](https://git.io/typing-svg)
  
-<p align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=MAHADI-143&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+<p align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=SAJID-404&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
 <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FMAHADI-YOUR-PAPA%2Fgithub-MAHADI-143&label=MAHADI'S%20GITHUB%20VISITOR&labelColor=%23697689&countColor=%23dce775&labelStyle=upper" width="350" height="35"></a>
 <center>
