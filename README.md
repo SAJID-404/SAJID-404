@@ -2,7 +2,7 @@
 
 <h3 align="center">
   <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="22">
-    Welcome To Mahadi's Profile  
+    Welcome To Sajid's Profile  
   <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="22">
 </h3>
 
@@ -16,7 +16,7 @@
  
 __𝗣𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗶𝗻𝗴__🩵🩷💖💙💜🖤🩶
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&random=false&width=435&lines=MAHADI+HASAN+AFRIDI;IT'S+NOT+A+NAME;IT'S+BRAND+BROTHER)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&random=false&width=435&lines=SAJID+KHAB;IT'S+NOT+A+NAME;IT'S+BRAND+BROTHER)](https://git.io/typing-svg)
  
 <p align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=MAHADI-143&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
